@@ -1,7 +1,5 @@
 //Nafn: Omar Thor Omarsson
 
-//Nafn: Dagny
-
 package com.example.timaverkefniomarthoromarsson;
 
 import android.support.v7.app.ActionBarActivity;
